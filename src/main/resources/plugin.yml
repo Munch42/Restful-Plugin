@@ -1,0 +1,6 @@
+name: RestfulPlugin
+version: ${project.version}
+main: codes.munch.restfulplugin.RestfulPlugin
+api-version: 1.16
+authors: [ Munch42 ]
+website: https://munch.codes
